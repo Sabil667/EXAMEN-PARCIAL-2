@@ -1,4 +1,5 @@
 # EXAMEN-PARCIAL-2
+Mohamed ElGhali Sabil
 Link de mi repositorio: https://github.com/Sabil667/EXAMEN-PARCIAL-2.git
 
 ## Misión 1: Reconexión en la Base Eco (Hoth) – Direccionamiento IP y Subredes
